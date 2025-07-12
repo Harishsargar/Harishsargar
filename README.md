@@ -1,63 +1,24 @@
-# 👋 Hi there, I'm Harish Sargar!
+<h1 align="center">Hi 👋, I'm Harish Sargar</h1>
+<h3 align="center">A Backend developer</h3>
 
-🎓 **Computer Science Graduate** | 💻 **Backend Developer**  
-🌱 Skilled in **Java**, **Spring Boot**, **REST APIs**, **Microservices**, and **MySQL**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsargar&label=Profile%20views&color=0e75b6&style=flat" alt="harishsargar" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishsargar" alt="harishsargar" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on **Uttar-AI**
 
-I'm a backend developer passionate about building secure, scalable, and efficient systems.  
-With hands-on experience from internships and live projects, I specialize in designing RESTful APIs, integrating Spring Security, and working with Java-based backend stacks.
+- 📫 How to reach me **harishsargar19@gmail.com**
 
-- 🔧 Strong backend foundation using **Java**, **Spring Boot**, and **Microservices architecture**
-- 🛡️ Built secure apps with **JWT**, **OAuth**, and **role-based access control**
-- 📈 Always curious about system design, cloud integration, and improving backend performance
-- 🔍 Currently exploring distributed systems and cloud-native backend solutions
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harishsargar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishsargar" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## 💼 Work Experience
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishsargar&show_icons=true&locale=en&layout=compact" alt="harishsargar" /></p>
 
-- **Software Developer Trainee** @ *Saffire Tech* (May 2025 – Present)  
-  Full-stack training with a focus on backend development and Linux systems.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishsargar&show_icons=true&locale=en" alt="harishsargar" /></p>
 
-- **Java Full-Stack Developer** @ *Real IT Solutions*  
-  Built and optimized Spring Boot APIs, integrated frontend with React, and fixed backend bugs.
-
-- **Web Dev Intern** @ *TechqKonnect*  
-  Created an online quiz platform using the MERN stack.
-
----
-
-## 📌 Notable Projects
-
-### 🔹 [Uttar-AI](https://uttar-ai.vercel.app/)
-A smart reply generator for Gmail & WhatsApp using **NLP** and **Spring Boot**
-
-### 🔹 Role-Based Team Management System
-Built a secure user management system with **JWT Auth**, **Spring Security**, and **MySQL**
-
-### 🔹 Smart Contact Manager
-Spring Boot app with **Google OAuth**, **cloud storage**, and **pagination**
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Java, JavaScript, PHP  
-- **Frameworks**: Spring Boot, Spring Security, React.js  
-- **Database**: MySQL  
-- **Others**: REST APIs, Microservices, OAuth, JWT, jQuery, Ajax, Tailwind CSS
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/harish-sargar-09500124b)  
-- 💻 [GitHub](https://github.com/Harishsargar)  
-- 📩 Email: harishsargar19@gmail.com  
-
----
-
-Thanks for visiting! ⭐️  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishsargar&" alt="harishsargar" /></p>
