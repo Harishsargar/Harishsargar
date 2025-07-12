@@ -1,5 +1,4 @@
-# Harish Sargar
-## Backend Developer
+# Harish Sargar - Backend Developer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-sargar-09500124b) 
 
