@@ -1,4 +1,6 @@
-# Harish Sargar - Backend Developer
+<h1 align="center">Hi 👋, I'm Harish Sargar</h1>
+<h3 align="center">🚀 Backend Developer | Java | Spring Boot | Microservices</h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-sargar-09500124b) 
 
