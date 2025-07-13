@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harish Sargar</h1>
-<h2 align="center">Backend Developer</h2>
+<div align="center">
+  <h1 style="margin-bottom: 0;">Hi 👋, I'm Harish Sargar</h1>
+  <h2 style="margin-top: 0;">Backend Developer</h2>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-sargar-09500124b) 
